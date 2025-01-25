@@ -1,1 +1,1 @@
-# my_first_repository
+# my_first_repository is my first Data Visualization course
